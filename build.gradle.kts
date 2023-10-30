@@ -64,6 +64,7 @@ java {
 }
 
 repositories {
+    maven("https://maven.aliyun.com/repository/public")
     mavenCentral()
     maven("https://jitpack.io")
     maven("https://gitlab.com/api/v4/projects/26729549/packages/maven")

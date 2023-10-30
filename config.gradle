@@ -1,9 +1,4 @@
-pluginManagement {
-    repositories {
-        gradlePluginPortal()
-    }
-}
-rootProject.name = 'reader'
+
 
 ext {
     nexusConfig = [
